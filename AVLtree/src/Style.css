@@ -1,0 +1,13 @@
+.label {
+	-fx-font-size : 1.1em;
+}
+
+.Slider, .axis {
+	-fx-tick-label-font: 1em System;
+	-fx-text-fill: black;
+	-fx-tick-label-fill: black;
+}
+
+.thumb {
+	-fx-background-color : black;
+}
